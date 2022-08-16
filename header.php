@@ -8,8 +8,8 @@ echo <<<_END
 _END;
 echo "<h1>$pagetitle</h1><hr>\n";
 echo " | ";
-echo "<a href = 'edit_positions.php'>Должности</a> | \n";
-echo "<a href = 'edit_emloyees.php'>Сотрудники</a> | \n";
+echo "<a href = 'positions.php'>Должности</a> | \n";
+echo "<a href = 'emloyees.php'>Сотрудники</a> | \n";
 echo "<a href = 'db_settings.php'>Настройки доступа в базу данных</a><br>\n";
 echo "<hr>";
 ?>

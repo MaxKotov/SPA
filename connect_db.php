@@ -1,5 +1,5 @@
 <?php
-$host =    'localhost';
+$host =    'localhost'; // host adress
 $data =    'elmir';
 $user =    'elmir';
 $pass =    'elmir';

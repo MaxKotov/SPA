@@ -1,6 +1,6 @@
 <?php
 $pagetitle = "Настройка учетной записи MySQL";
-require_once 'header.php';
+require_once 'header.php'; // include header of page
 require_once 'connect_db.php';
 require_once 'functions.php';
 
