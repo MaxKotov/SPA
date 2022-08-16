@@ -1,4 +1,4 @@
-<?php //setupusers.php
+<?php //setupusers.php make new page to add an user
 require_once 'connect_db.php';
 require_once 'functions.php';
 
